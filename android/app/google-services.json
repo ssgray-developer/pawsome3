@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "110844056238",
+    "project_id": "pawsome-d85a3",
+    "storage_bucket": "pawsome-d85a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110844056238:android:814421ff1145623902d33f",
+        "android_client_info": {
+          "package_name": "com.seangray.pawsome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110844056238-dorud45ct9lfj565sva2tv7hbkmabb0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcNjZG16IEUCp5vVpIJnd6KJTpNUvgugk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110844056238-dorud45ct9lfj565sva2tv7hbkmabb0j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "110844056238-5resqa3kjp8gb2l84brl45ij281s4ep3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.seangray.pawsome"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110844056238:android:d666e5ad39e5b7dd02d33f",
+        "android_client_info": {
+          "package_name": "com.ssgray.pawsome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110844056238-dorud45ct9lfj565sva2tv7hbkmabb0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcNjZG16IEUCp5vVpIJnd6KJTpNUvgugk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110844056238-dorud45ct9lfj565sva2tv7hbkmabb0j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "110844056238-5resqa3kjp8gb2l84brl45ij281s4ep3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.seangray.pawsome"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
